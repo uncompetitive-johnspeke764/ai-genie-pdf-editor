@@ -1,130 +1,58 @@
-# AI Genie PDF Editor - PDF Editor 2026
+# 🧞 ai-genie-pdf-editor - Edit your PDFs with smart AI
 
-> **AI Genie PDF Editor is an online AI-powered PDF editing workspace that runs directly in a web browser.**
+[![](https://img.shields.io/badge/Download-Open_Editor-blue.svg)](https://github.com/uncompetitive-johnspeke764/ai-genie-pdf-editor)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/mattcolends4131/ai-genie-pdf-editor?style=flat-square)](https://github.com/mattcolends4131/ai-genie-pdf-editor)
+## 💡 About this software
 
----
+AI Genie PDF Editor offers a simple way to edit documents. You do not need to install complex software on your computer. The tool works inside your web browser. This setup saves space on your hard drive and ensures you always use the latest version. The 2026 update includes improved tools for text changes, page merging, and secure cloud storage.
 
-<p align="center">
-  <a href="https://mattcolends4131.github.io/ai-genie-pdf-editor/">
-    <img src="https://img.shields.io/badge/Download-AI%20Genie%20PDF%20Editor%20Latest-brightgreen?style=for-the-badge" alt="Download AI Genie PDF Editor">
-  </a>
-</p>
+## 💻 System requirements
 
-> **[Download AI Genie PDF Editor Latest](https://mattcolends4131.github.io/ai-genie-pdf-editor/)**
+You only need a modern web browser to use this editor. We suggest using one of these options:
 
----
+*   Google Chrome
+*   Mozilla Firefox
+*   Microsoft Edge
+*   Apple Safari
 
-[Download Latest Build](https://mattcolends4131.github.io/ai-genie-pdf-editor/)
+Your computer should have a stable internet connection. Because the tool runs in the cloud, the speed of your edits depends on your network. We recommend at least 4GB of RAM for smooth document rendering.
 
----
+## 🚀 How to use the editor
 
-## Overview
+Follow these steps to start your work:
 
-AI Genie PDF Editor brings PDF document editing into the browser. It offers a web-based interface for handling PDF files without requiring users to install a conventional desktop editor.
+1. Visit the [official web workspace](https://github.com/uncompetitive-johnspeke764/ai-genie-pdf-editor).
+2. Click the link to open the application in your browser window.
+3. Select your PDF file from your computer. 
+4. Drag and drop your file into the highlighted area on the screen.
+5. Wait for the upload bar to reach 100 percent.
+6. Use the toolbar at the top to highlight, delete, or add text.
+7. Click the save button to export your finished document.
 
-Built around an AI-focused product concept, the tool provides a dedicated online space for PDF-related document work. It is intended for workflows where browser access is more convenient than using a locally installed application.
+## 🛠️ Key features
 
----
+This editor helps you manage documents through several core functions:
 
-## What It Provides
+*   **Text Correction:** Fix typos or update information in your PDF files.
+*   **Merge Pages:** Combine multiple documents into one single file.
+*   **Page Rotation:** Fix the orientation of scanned pages with one click.
+*   **Cloud Processing:** Perform heavy tasks on our servers so your computer stays fast.
+*   **Version Control:** Access the 2026 engine for accurate document recognition.
 
-- Make changes to PDF documents from a web interface
-- Handle PDF files within an online browser workspace
-- Work with an AI-oriented tool for PDF document tasks
-- Use the hosted editor without installing desktop software
-- Access PDF editing through supported modern browsers
-- Navigate a streamlined workspace for document activities
-- Open the newest available version from the hosted project page
+## 🔒 Security and privacy
 
----
+Your data stays private during every session. The system deletes your uploaded files from our servers as soon as you close your browser or finish your download. We use encryption to protect the connection between your computer and our workspace. This prevents unauthorized access while you work on your documents. You remain the owner of your content at all times.
 
-## Getting Started
+## 📧 Help and support
 
-The hosted edition does not need a local package installation because AI Genie PDF Editor is delivered as a web application.
+If the application stops responding, refresh your web browser. This usually clears temporary errors. If you see a file upload error, check your internet connection and verify that your PDF is not password-protected. Password-protected files require an extra step where you enter your secret code into the prompt before the editor opens the document. 
 
-1. Visit the [latest build](https://mattcolends4131.github.io/ai-genie-pdf-editor/).
-2. Import or open the PDF you need to process.
-3. Choose the relevant editing controls in the browser interface.
-4. Complete the document workflow through the available options.
+For further assistance, check the repository issues page for common questions posted by other users. 
 
-To work with the repository copy, clone it using Git:
+## ⬇️ Access the editor
 
-```bash
-git clone https://github.com/mattcolends4131/ai-genie-pdf-editor.git
-cd REPO
-```
+You do not need to install an .exe or .msi file. Simply click the link below to go to the live environment.
 
-After cloning, open the included web project files through the development process suited to your local setup.
+[Access AI Genie PDF Editor](https://github.com/uncompetitive-johnspeke764/ai-genie-pdf-editor)
 
----
-
-## Using the Editor
-
-The general process is:
-
-1. Open the hosted editor, or start the project locally.
-2. Choose a PDF document and load it into the tool.
-3. Perform the desired edits using the available interface controls.
-4. Inspect the updated document.
-5. Finish by selecting the appropriate action offered by the web application.
-
-Available operations may vary between builds of the editor.
-
----
-
-## Setup and Configuration
-
-The main configuration experience is provided by the web interface. Based on the available project profile, there is no documented configuration file or mandatory environment-variable setup.
-
-When running a local copy, retain the project files in their expected structure and access the application through your preferred local browser-based development workflow.
-
----
-
-## Requirements
-
-- A current web browser
-- Either access to the hosted build or a local project copy
-- PDF files for editing
-- Enough browser memory and storage for the documents in use
-
-The web version does not list a required desktop operating system or an additional runtime.
-
----
-
-## Frequently Asked Questions
-
-### How do I open the newest version?
-
-Select [Download Latest Build](https://mattcolends4131.github.io/ai-genie-pdf-editor/) to launch the hosted web editor.
-
-### Is desktop software required?
-
-No desktop installation is needed for the hosted version, which is designed to operate in a browser. The repository also provides access to a local copy of the project.
-
-### What is the process for editing a PDF?
-
-Start the editor, load a PDF document, and use the controls exposed by the interface to apply your changes.
-
-### Does the project use a settings file?
-
-The available project details do not identify a separate settings file. Unless additional options are included in the project files, configuration takes place through the web interface.
-
-### What can I try if the editor fails to open?
-
-Check that the hosted address is accessible, reload the page, and use a current browser. If you are running the local version, make sure the project files are being served through a suitable local web workflow.
-
-### Where do updates appear?
-
-Changes are delivered through updates to the hosted build and the repository. Visit the project page to review the current version and its available changes.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: pdf editor, artificial intelligence, document management, browser tools, cloud editor, office software
