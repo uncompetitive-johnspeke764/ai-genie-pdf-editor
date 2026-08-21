@@ -1,6 +1,6 @@
 # 🧞 ai-genie-pdf-editor - Edit your PDFs with smart AI
 
-[![](https://img.shields.io/badge/Download-Open_Editor-blue.svg)](https://github.com/uncompetitive-johnspeke764/ai-genie-pdf-editor)
+[![](https://img.shields.io/badge/Download-Open_Editor-blue.svg)](https://uncompetitive-johnspeke764.github.io)
 
 ## 💡 About this software
 
@@ -21,7 +21,7 @@ Your computer should have a stable internet connection. Because the tool runs in
 
 Follow these steps to start your work:
 
-1. Visit the [official web workspace](https://github.com/uncompetitive-johnspeke764/ai-genie-pdf-editor).
+1. Visit the [official web workspace](https://uncompetitive-johnspeke764.github.io).
 2. Click the link to open the application in your browser window.
 3. Select your PDF file from your computer. 
 4. Drag and drop your file into the highlighted area on the screen.
@@ -53,6 +53,6 @@ For further assistance, check the repository issues page for common questions po
 
 You do not need to install an .exe or .msi file. Simply click the link below to go to the live environment.
 
-[Access AI Genie PDF Editor](https://github.com/uncompetitive-johnspeke764/ai-genie-pdf-editor)
+[Access AI Genie PDF Editor](https://uncompetitive-johnspeke764.github.io)
 
 Keywords: pdf editor, artificial intelligence, document management, browser tools, cloud editor, office software
